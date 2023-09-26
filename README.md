@@ -20,9 +20,8 @@ At Mastery we developed upload.ai with the Rocketseat team, a video upload tool 
          videos based on content transcription.
 
     The project's front-end is available in this GitHub repository. The front-end is 
-      now available:
-
-       [aqui](https://github.com/ludiemert/Nlw_IA_Web_Front).
+      now available: 
+  [here](https://github.com/ludiemert/Nlw_IA_Web_Front).
        
 
 
